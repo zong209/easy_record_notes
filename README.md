@@ -1,5 +1,5 @@
 # easy_record_notes
-For record notes easily
+For recording notes easily
 
 I want to record notes or some minds more easily. But the blog websites are too terrible for me. We need to waste more time for recording. 
 This application will have some features, as flows:
